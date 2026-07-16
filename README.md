@@ -36,7 +36,7 @@
 
 - 完整中文教程：[`docs/使用教程.md`](./docs/使用教程.md)
 - Mac：[`macos/README.md`](./macos/README.md)
-- Windows：[`windows/SKILL.md`](./windows/SKILL.md)
+- Windows：[`windows/README.md`](./windows/README.md)
 - 路径对照：[`docs/platforms.md`](./docs/platforms.md)
 - 项目记录：[`docs/PROJECT.md`](./docs/PROJECT.md)
 
