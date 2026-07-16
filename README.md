@@ -20,19 +20,19 @@
 ## 赞助商
 
 <p align="center">
-  <a href="https://passion8.cc/register?aff=TuPe">
-    <img src="docs/images/sponsor-passion8.png" alt="Passion8" height="72">
+  <a href="https://api.codelink.chat">
+    <img src="docs/images/sponsor-codelink.png" alt="CODELINK" height="88">
   </a>
 </p>
 
 <p align="center">
-  <strong>更智能的连接 · 更热爱的创造</strong><br>
-  <sub>热爱驱动 · 无限可能 · Connect AI · Power Creation</sub>
+  <strong>一个入口 · 连接多种 AI 模型</strong><br>
+  <sub>统一接入 · 按量计费 · 面向开发者</sub>
 </p>
 
 <p align="center">
-  感谢 <a href="https://passion8.cc/register?aff=TuPe"><strong>passion8.cc</strong></a> 赞助本项目。<br>
-  满血 AI 中转：官方模型直连，无降智、无套壳；一行配置接入 Codex / Claude Code / Grok。
+  由 <a href="https://api.codelink.chat"><strong>CODELINK AI 中转站</strong></a> 提供支持。<br>
+  多模型统一接入与余额按量计费，适配 Codex / Claude Code / OpenAI 兼容客户端。
 </p>
 
 <p align="center">
@@ -44,6 +44,11 @@
 ## 效果预览
 
 一张图，一种心情。下面都是可落地的主题示意效果：
+
+<p align="center">
+  <img src="docs/images/gallery/codelink-mecha-dashboard.png" alt="CODELINK 机甲驾驶舱" width="900"><br>
+  <sub>CODELINK 机甲驾驶舱</sub>
+</p>
 
 <p align="center">
   <img src="docs/images/gallery/skin-01.jpg" alt="粉系定制" width="900"><br>
