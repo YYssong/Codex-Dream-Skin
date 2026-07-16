@@ -17,6 +17,29 @@
   非 OpenAI 官方产品。不修改 <code>.app</code> / <code>app.asar</code> / WindowsApps。
 </p>
 
+## 快速开始
+
+> [!IMPORTANT]
+> 使用本项目之前，请先安装官方 Codex Desktop，并至少正常启动一次。
+> 还没有安装？登录 [CODELINK 教程中心](https://api.codelink.chat/tutorial)，打开「Codex 接入」即可查看客户端安装与配置教程。
+
+**第一次使用建议直接阅读：[Codex Dream Skin 完整使用教程](./docs/使用教程.md)**
+
+仓库内按平台放了现成脚本（实现细节不同，效果都是「主题化 Codex」）：
+
+| 平台 | 目录 | 入口 |
+|------|------|------|
+| Apple Silicon / Intel Mac | [`macos/`](./macos/) | 双击 `Install Codex Dream Skin.command` |
+| Windows | [`windows/`](./windows/) | `scripts/install-dream-skin.ps1` → `start-dream-skin.ps1` |
+
+更细的说明：
+
+- 完整中文教程：[`docs/使用教程.md`](./docs/使用教程.md)
+- Mac：[`macos/README.md`](./macos/README.md)
+- Windows：[`windows/SKILL.md`](./windows/SKILL.md)
+- 路径对照：[`docs/platforms.md`](./docs/platforms.md)
+- 项目记录：[`docs/PROJECT.md`](./docs/PROJECT.md)
+
 ## 赞助商
 
 <p align="center">
@@ -96,22 +119,6 @@
 - **可换图**：换一张喜欢的图，就能变成你的主题
 - **可恢复**：一键还原官方外观
 - **相对安全**：本机回环 CDP 注入，不改官方二进制与签名
-
-## 快速开始
-
-仓库内按平台放了现成脚本（实现细节不同，效果都是「主题化 Codex」）：
-
-| 平台 | 目录 | 入口 |
-|------|------|------|
-| Apple Silicon / Intel Mac | [`macos/`](./macos/) | 双击 `Install Codex Dream Skin.command` |
-| Windows | [`windows/`](./windows/) | `scripts/install-dream-skin.ps1` → `start-dream-skin.ps1` |
-
-更细的说明：
-
-- Mac：[`macos/README.md`](./macos/README.md)
-- Windows：[`windows/SKILL.md`](./windows/SKILL.md)
-- 路径对照：[`docs/platforms.md`](./docs/platforms.md)
-- 项目记录：[`docs/PROJECT.md`](./docs/PROJECT.md)
 
 ## 安全边界
 
