@@ -20,20 +20,19 @@
 ## Sponsors
 
 <p align="center">
-  <a href="https://passion8.cc/register?aff=TuPe">
-    <img src="docs/images/sponsor-passion8.png" alt="Passion8" height="72">
+  <a href="https://api.codelink.chat">
+    <img src="docs/images/sponsor-codelink.png" alt="CODELINK" height="88">
   </a>
 </p>
 
 <p align="center">
-  <strong>Smarter Connections · Passionate Creation</strong><br>
-  <sub>Connect AI · Power Creation</sub>
+  <strong>One endpoint · Multiple AI models</strong><br>
+  <sub>Unified access · Usage-based billing · Built for developers</sub>
 </p>
 
 <p align="center">
-  Thanks to <a href="https://passion8.cc/register?aff=TuPe"><strong>passion8.cc</strong></a> for sponsoring this project.<br>
-  Full-power AI gateway: official models, no silent downgrades, no wrapper shells.<br>
-  One-line setup for Codex / Claude Code / Grok.
+  Supported by the <a href="https://api.codelink.chat"><strong>CODELINK AI Gateway</strong></a>.<br>
+  Unified multi-model access with balance-based billing for Codex, Claude Code, and OpenAI-compatible clients.
 </p>
 
 <p align="center">
@@ -45,6 +44,11 @@
 ## Gallery
 
 One image, one mood. Real theme previews you can ship:
+
+<p align="center">
+  <img src="docs/images/gallery/codelink-mecha-dashboard.png" alt="CODELINK Mecha Dashboard" width="900"><br>
+  <sub>CODELINK Mecha Dashboard</sub>
+</p>
 
 <p align="center">
   <img src="docs/images/gallery/skin-01.jpg" alt="Pink Custom" width="900"><br>
