@@ -1,73 +1,75 @@
-# 宣传文案（可直接发）
+# 宣传文案
 
-仓库：https://github.com/Fei-Away/Codex-Dream-Skin
+项目地址：<https://github.com/YYssong/Codex-Dream-Skin>
 
----
+## 小红书标题备选
 
-## 短版（朋友圈 / 群公告）
+1. 我把 Codex 桌面换成了机甲驾驶舱
+2. 原来 Codex 也能换皮肤
+3. 写代码，也要有自己的氛围感
+4. 一张图，把 Codex 变成我的工作台
 
-Codex 也能「换皮肤」了。
+推荐使用第 1 个。标题直接对应效果图，用户更容易理解内容不是普通配色教程。
 
-不是整窗假截图，侧栏、卡片、输入框都还是真控件。  
-一张图一套主题：千玺、热巴、Miku、KUN、ENFP……你想要的样子自己配。
+## 小红书正文（可直接发布）
 
-本机注入，不改官方安装包，还能一键恢复。
+最近给 Codex Desktop 换了一张会呼吸的脸。
 
-开源地址：  
-https://github.com/Fei-Away/Codex-Dream-Skin
+先说结论：这不是贴一张假截图，而是一套真的能点、能输入、能正常工作的 Codex 主题。
 
-感谢 Passion8 赞助：https://passion8.cc/register?aff=TuPe
+起因很简单：每天都在同一个界面里写代码，默认外观虽然干净，但总觉得少了一点属于自己的氛围。
 
----
+所以整理了这个开源项目：**Codex Dream Skin**。
 
-## 中版（公众号 / 即刻 / 小红书）
+它不会修改官方安装包。侧栏、建议卡、项目选择器和输入框都还是 Codex 原生控件。
 
-标题可选：
+目前可以做到：
 
-1. 我给 Codex 做了个皮肤商店：从人民的 AI 到初音未来  
-2. 写代码也能有爱豆同款桌面  
-3. Codex Dream Skin：不拆包，也能把官方界面变成你的
+- 自定义首页横幅和任务页背景
+- 保留原生侧栏、卡片和输入框交互
+- Mac 支持选择自己的图片生成主题
+- Windows 支持安装、启动、验证和完整恢复
+- 不修改 `.app`、`app.asar` 或 WindowsApps
+- 不喜欢时可以恢复官方外观
 
-正文：
+项目已经放到 GitHub，安装步骤、验证方式和恢复教程都写成中文了。
 
-还在用默认灰白 Codex？有点可惜。
+使用前只需要先安装并正常启动一次官方 Codex Desktop。
 
-**Codex Dream Skin** 是一套给 Codex 桌面端用的外部主题方案：  
-用本机 CDP 把样式和横幅「贴」上去，**不修改官方 `.app` / `app.asar`**，侧栏、建议卡、项目选择、输入框都是原生可点。
+还没有安装 Codex 的话，CODELINK 教程中心里也整理了 Codex 客户端安装与接入说明。教程和换肤是两件独立的事，Dream Skin 不会自动修改你的 API Key 或 Base URL。
 
-你看到的热巴紫夜、千玺清透、Miku 蓝粉、KUN 黑金、ENFP 小宇宙……都是同一套能力换图 + 换色的结果。
+GitHub 搜索：`YYssong/Codex-Dream-Skin`
 
-开源仓库（含效果图与安装脚本）：  
-https://github.com/Fei-Away/Codex-Dream-Skin
+你们平时更喜欢干净的浅色工作台，还是这种带一点科幻感的桌面？
 
-想稳定接模型的话，可以走赞助方 Passion8（与换肤分开配置）：  
-https://passion8.cc/register?aff=TuPe
+## 推荐话题
 
----
+```text
+#Codex #AI工具 #程序员 #开源项目 #效率工具 #桌面美化 #Mac软件 #Windows软件
+```
 
-## 长版钩子（发帖置顶）
+建议选择 6-8 个相关话题，不要加入与内容无关的热门标签。
 
-> 写代码的桌面，也可以有自己的皮肤。
+## 置顶评论
 
-- 真交互，不是 P 一张假 UI  
-- 可换图、可恢复  
-- Mac / Windows 脚本都在仓库里  
-- 效果图直接看 README Gallery  
+```text
+项目已经开源，GitHub 搜索 YYssong/Codex-Dream-Skin 就能找到。README 顶部有快速开始，Mac 和 Windows 的中文教程也已经补齐。使用前记得先安装并启动一次官方 Codex。
+```
 
-👉 https://github.com/Fei-Away/Codex-Dream-Skin
+## 短版（朋友圈或群公告）
 
----
+Codex 也能换皮肤了。
 
-## 一句话 slogan
+不是整窗假截图，侧栏、卡片、项目选择器和输入框都还是原生控件。一张图可以变成首页横幅和任务背景，支持验证和完整恢复，也不会修改官方安装包。
 
-- 给 Codex 换一张会呼吸的脸  
-- 一张图，一种心情  
-- 写代码，也要有氛围感  
-- 不拆包，也能全员爱豆版 Codex  
+项目与中文教程：
+<https://github.com/YYssong/Codex-Dream-Skin>
 
----
+还没安装 Codex，可以先到 CODELINK 教程中心查看「Codex 接入」。换肤和 API 配置相互独立。
 
-## 注意（发的时候自己把关）
+## 发布前检查
 
-效果图含公众人物 / IP 形象时，**仅作主题示意**。  
-二次商用或大规模传播前，请确认肖像与商标授权，避免纠纷。
+- 公开截图中不要出现账号、任务名称、项目路径或聊天隐私。
+- 人物、角色或品牌图片公开发布前确认使用授权。
+- Windows 当前没有 Mac 同等的一键选图能力，不要在文案中写成全平台完全一致。
+- 不要使用“OpenAI 官方皮肤”“官方合作”等容易误导的表述。
